@@ -3,4 +3,4 @@
 выполнить команду npm i
 запуск приложения npm start
 
-<img src="https://imgur.com/a/Y5PqH1w" width="100px"/>
+<img src="https://imgur.com/TkDP4gK.gif" width="100px"/>
